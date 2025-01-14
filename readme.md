@@ -1,5 +1,7 @@
 ## Assignment 1: Full-Stack Development Recap
 
+Use this template to help with a project readme.md file
+
 ### Full-Stack Web Development
 
 lorem
